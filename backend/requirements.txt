@@ -1,0 +1,5 @@
+fastapi==0.75.0
+fastapi-versioning==0.10.0
+SQLAlchemy==1.4.32
+psycopg==3.0.10
+uvicorn==0.17.6
